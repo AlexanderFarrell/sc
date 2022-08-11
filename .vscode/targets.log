@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Thu Aug 11 15:46:26 2022
+# Make data base, printed on Thu Aug 11 15:58:16 2022
 
 # Variables
 
@@ -80,7 +80,7 @@ SHLVL = 2
 # makefile (from `Makefile', line 3)
 CC = gcc
 # makefile (from `Makefile', line 2)
-BUILD_DIR = build/debug
+BUILD_DIR = build
 # default
 MAKE_VERSION := 3.81
 # environment
@@ -150,10 +150,10 @@ VSCODE_PID = 3195
 
 # Directories
 
-# . (device 16777218, inode 42155510): 9 files, no impossibilities.
+# . (device 16777218, inode 42155510): 10 files, no impossibilities.
 # src (device 16777218, inode 42155527): 7 files, no impossibilities.
 
-# 16 files, no impossibilities in 2 directories.
+# 17 files, no impossibilities in 2 directories.
 
 # Implicit Rules
 
@@ -199,7 +199,7 @@ all:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-08-11 10:13:14
+#  Last modified 2022-08-11 15:49:51
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -224,6 +224,6 @@ Makefile:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Thu Aug 11 15:46:26 2022
+# Finished Make data base on Thu Aug 11 15:58:16 2022
 
  

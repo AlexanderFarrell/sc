@@ -16,7 +16,7 @@ int main(int argc, char const *argv[])
     int windowFlags = SDL_WINDOW_RESIZABLE;
 
     char * windowTitle = "Name of Game";
-7
+
     if (SDL_Init(SDL_INIT_VIDEO) < 0) {
         printf("Couldn't initialize SDL: %s \n", SDL_GetError());
         exit(1);

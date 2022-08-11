@@ -1,5 +1,5 @@
 SRC_DIR = src
-BUILD_DIR = build/debug
+BUILD_DIR = build
 CC = gcc
 SRC_FILES = $(wildcard $(SRC_DIR)/*.c)
 OBJ_NAME = play
