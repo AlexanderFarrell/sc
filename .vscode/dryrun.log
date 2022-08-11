@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/alexanderfarrell/Developer/Learning/sc'
+gcc -lsdl2 -Iinclude -Llib src/main.c -o build/debug/play
+make: Leaving directory `/Users/alexanderfarrell/Developer/Learning/sc'
+ 
